@@ -1,5 +1,5 @@
 # LogisticsShippingRates
-Projeto do curso "Getting Started with Git and GitHub" da IBM no Coursera
+Projeto do curso "Getting Started with Git and GitHub" da IBM no Coursera.
 
 Please consider the below factors while contributing
 
